@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/ZefRaine/PeopleUnited/issues"
   },
-  "homepage": "https://github.com/ZefRaine/PeopleUnited#readme"
+  "homepage": "https://github.com/ZefRaine/PeopleUnited#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "path": "^0.12.7"
+  }
 }
