@@ -1,0 +1,23 @@
+{
+  "name": "peopleunited",
+  "version": "1.0.0",
+  "description": "an application to help you match with like minded individuals",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZefRaine/PeopleUnited.git"
+  },
+  "keywords": [
+    "friends"
+  ],
+  "author": "Zeph Tambornino",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZefRaine/PeopleUnited/issues"
+  },
+  "homepage": "https://github.com/ZefRaine/PeopleUnited#readme"
+}
