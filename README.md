@@ -2,8 +2,9 @@
 Tired of arbitrarily matching with people? Try [PeopleUnited](https://peopleunited.herokuapp.com/) 
 -----------------------------------------------------
 With PU, you'll see exactly who thinks like you do by taking our simple personality quiz
-What the project does
-Why the project is useful
-How users can get started with the project
+## How it works
 
-Who maintains and contributes to the project
+## What I used
+
+### Created by Zeph Tambornino
+
