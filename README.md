@@ -1,5 +1,5 @@
 # *PeopleUnited (PU)*
-Tired of arbitrarily matching with people? [PeopleUnited](https://peopleunited.herokuapp.com/) 
+Tired of arbitrarily matching with people? Try [PeopleUnited](https://peopleunited.herokuapp.com/) 
 -----------------------------------------------------
 With PU, you'll see exactly who thinks like you do by taking our simple personality quiz
 What the project does
