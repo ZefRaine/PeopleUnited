@@ -26,4 +26,4 @@ If you click `GitHub Repo` you'll return to this page, but if you click `API Fri
 ![Friends](images/Friends.PNG)
 
 -----------------------------------------------------
-###### Created by [Zeph Tambornino](https://zefraine.github.io/My-Porfolio/) ######
+###### Created by *[Zeph Tambornino](https://zefraine.github.io/My-Porfolio/)* ######
