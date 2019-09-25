@@ -14,7 +14,6 @@ Finally, a box will display your best matched friend from previous user's answer
 ![BestFriend](images/BestFriend.PNG)
 If you click `GitHub Repo` you'll return to this page, but if you click `API Friends List` you'll be take to the following page which displays the recorded Name, Image URL, and Survey Answers as such
 ![Friends](images/Friends.PNG)
-### How it works: ###
 -----------------------------------------------------
 #### Created by Zeph Tambornino ####
 
