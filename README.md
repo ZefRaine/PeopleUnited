@@ -1,5 +1,6 @@
 # *PeopleUnited (PU)*
 Tired of arbitrarily matching with people? Try PeopleUnited. 
+-----------------------------------------------------
 With PU, you'll see exactly who thinks like you do by taking our simple personality quiz
 [PeopleUnited](https://peopleunited.herokuapp.com/)
 -----------------------------------------------------
