@@ -5,7 +5,7 @@ Tired of arbitrarily matching with people? Try [PeopleUnited](https://peopleunit
 -----------------------------------------------------
 ### How to use: ###
 
-After clicking the `Go to Survey` button on the homepage, make sure to fill out the required forms as show below
+After clicking the `Go to Survey` button on the homepage, make sure to fill out the required forms show below
 
 ![RequiredPrompts](images/RequiredPrompts.PNG)
 
