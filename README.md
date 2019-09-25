@@ -1,5 +1,5 @@
 # *PeopleUnited (PU)* #
-Tired of arbitrarily matching with people? Try [PeopleUnited](https://peopleunited.herokuapp.com/) 
+Tired of arbitrarily matching with people? Try *[PeopleUnited](https://peopleunited.herokuapp.com/)*
 -----------------------------------------------------
 ![Homepage](images/Homepage.PNG)
 -----------------------------------------------------
