@@ -8,6 +8,7 @@ After clicking the `Go to Survey` button on the homepage, make sure to fill out 
 ![RequiredPrompts](images/RequiredPrompts.PNG)
 If you don't, you'll get one of these messages
 ![Alert](images/Alert.PNG)
+
 Hit the submit at the bottom of the survey to submit your data and compare it with the other friends who have filled out this survey.
 ![Submit](images/Submit.PNG)
 Finally, a box will display your best matched friend from previous user's answers to the survey.
