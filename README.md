@@ -3,7 +3,7 @@ Tired of arbitrarily matching with people? Try [PeopleUnited](https://peopleunit
 -----------------------------------------------------
 ![Image of Yaktocat](images/Homepage.PNG)
 ### How it works:
-------------------
+-----------------------------------------------------
 
 ### What I used
 
