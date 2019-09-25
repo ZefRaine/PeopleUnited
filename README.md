@@ -7,7 +7,7 @@ Tired of arbitrarily matching with people? Try *[PeopleUnited](https://peopleuni
 
 After clicking the `Go to Survey` button on the homepage, make sure to fill out the required forms shown below
 
-![RequiredPrompts](images/RequiredPrompts.PNG)
+![RequiredPrompts](images/RequiredPrompts.PNG)(https://peopleunited.herokuapp.com/)
 
 If you don't, you'll get one of these messages
 
