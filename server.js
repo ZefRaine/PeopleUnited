@@ -1,7 +1,12 @@
 const express = require("express");
 
 const app = express();
+app.use(express.urlencoded({ extended: true }));
+app.use(express.json());
 require("./routing/htmlRoutes.js")(
+    app
+)
+require("./routing/apiRoutes.js")(
     app
 )
 const PORT = process.env.PORT || 8080;
