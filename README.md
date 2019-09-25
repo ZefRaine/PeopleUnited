@@ -17,7 +17,7 @@ Hit the submit at the bottom of the survey to submit your data and compare it wi
 
 ![Submit](images/Submit.PNG)
 
-Finally, a box will display your best matched friend from previous user's answers to the survey
+Finally, a box will display your most compatible match from previous user's answers to the survey
 
 ![BestFriend](images/BestFriend.PNG)
 
