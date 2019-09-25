@@ -1,7 +1,7 @@
 # PeopleUnited *(PU)* #
 Tired of arbitrarily matching with people? Try *[PeopleUnited](https://peopleunited.herokuapp.com/)*
 -----------------------------------------------------
-![Homepage](images/Homepage.PNG)
+![https://peopleunited.herokuapp.com/](images/Homepage.PNG)
 -----------------------------------------------------
 ### How to use: ###
 
